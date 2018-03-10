@@ -1,0 +1,14 @@
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/AppTests.deps.json
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/AppTests.runtimeconfig.json
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/AppTests.runtimeconfig.dev.json
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/AppTests.dll
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/bin/Debug/netcoreapp2.0/AppTests.pdb
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.csprojResolveAssemblyReference.cache
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.AssemblyInfo.cs
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.dll
+/Users/rabail.ali/Projects/shopifysampleapp/AppTests/obj/Debug/netcoreapp2.0/AppTests.pdb

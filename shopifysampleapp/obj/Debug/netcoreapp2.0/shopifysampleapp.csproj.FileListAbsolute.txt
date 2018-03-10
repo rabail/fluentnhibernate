@@ -1,0 +1,13 @@
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/shopifysampleapp.deps.json
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/shopifysampleapp.runtimeconfig.json
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/shopifysampleapp.runtimeconfig.dev.json
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/shopifysampleapp.dll
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/shopifysampleapp.pdb
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.csprojResolveAssemblyReference.cache
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.AssemblyInfo.cs
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.dll
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/obj/Debug/netcoreapp2.0/shopifysampleapp.pdb
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/Services.dll
+/Users/rabail.ali/Projects/shopifysampleapp/shopifysampleapp/bin/Debug/netcoreapp2.0/Services.pdb
